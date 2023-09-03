@@ -6,25 +6,35 @@
 website features a modern and intuitive design, with easy-to-use navigation and a
 simple shopping experience that puts the focus on the products.</p>
 
+
+
 👉 Live Demo: <a href='soon'>Ecommerce Demo</a>
+
+
 
 <h3>Build with:</h3>
 
 » Vanila CSS <br>
 » React JS
 
+
 <h2>Screenshots of the Project 📸</h2>
 <br>
+
+
 <h3 align='center'>Home Page 🏡</h3>
 
+
 <div align='center'>
-<img src='https://github-production-user-asset-6210df.s3.amazonaws.com/133793148/265274065-bae2214b-6394-4282-aaa2-de3d9536a095.png'/>
+<img src='https://github-production-user-asset-6210df.s3.amazonaws.com/133793148/265275841-373cff6e-b1e4-4e19-9a1d-806f97583832.png'/>
 </div>
-<br><br>
+
+<br>
+<br>
 <h3 align='center'>Categories Page 👇</h3>
 
 <div align='center'>
-<img src='https://github-production-user-asset-6210df.s3.amazonaws.com/133793148/265274323-e2570fa4-85a1-43fc-a340-c28bbcc8c64a.png'/>
+<img src='https://github-production-user-asset-6210df.s3.amazonaws.com/133793148/265275939-f41dc251-b746-4898-b0a9-1bdcf3c0ba2c.png'/>
 
 <br>
 <br>
